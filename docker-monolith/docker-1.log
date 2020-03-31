@@ -1,0 +1,6 @@
+REPOSITORY                  TAG                 IMAGE ID            CREATED              SIZE
+asrytikov/ubuntu-tmp-file   latest              7b7c1e491439        About a minute ago   124MB
+ubuntu                      16.04               77be327e4b63        3 weeks ago          124MB
+hello-world                 latest              fce289e99eb9        14 months ago        1.84kB
+
+Контейнер-это запущенный образ. Образ это схема сборки контейнера.
